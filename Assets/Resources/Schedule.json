@@ -1,0 +1,18 @@
+{
+  "startDate": {
+    "millisecond": 0,
+    "second": 0,
+    "minute": 0,
+    "hour": 0,
+    "day": 5,
+    "month": 1,
+    "year": 2020
+  },
+  "people": [
+    "Jon",
+    "Benoit",
+    "Bernard",
+    "Ben",
+    "Alex"
+  ]
+}
